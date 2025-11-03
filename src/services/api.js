@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'https://todo-backend-30nv.onrender.com';
+const API_BASE_URL = 'https://todo-backend-30nv.onrender.com/api/todos';
 
 export const todoAPI = {
   // Get all todos
